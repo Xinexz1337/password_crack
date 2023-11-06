@@ -1,0 +1,15 @@
+D:\даня\visualstudio\pass.crack\bin\Debug\net6.0\pass.crack.exe
+D:\даня\visualstudio\pass.crack\bin\Debug\net6.0\pass.crack.deps.json
+D:\даня\visualstudio\pass.crack\bin\Debug\net6.0\pass.crack.runtimeconfig.json
+D:\даня\visualstudio\pass.crack\bin\Debug\net6.0\pass.crack.dll
+D:\даня\visualstudio\pass.crack\bin\Debug\net6.0\pass.crack.pdb
+D:\даня\visualstudio\pass.crack\obj\Debug\net6.0\pass.crack.csproj.AssemblyReference.cache
+D:\даня\visualstudio\pass.crack\obj\Debug\net6.0\pass.crack.GeneratedMSBuildEditorConfig.editorconfig
+D:\даня\visualstudio\pass.crack\obj\Debug\net6.0\pass.crack.AssemblyInfoInputs.cache
+D:\даня\visualstudio\pass.crack\obj\Debug\net6.0\pass.crack.AssemblyInfo.cs
+D:\даня\visualstudio\pass.crack\obj\Debug\net6.0\pass.crack.csproj.CoreCompileInputs.cache
+D:\даня\visualstudio\pass.crack\obj\Debug\net6.0\pass.crack.dll
+D:\даня\visualstudio\pass.crack\obj\Debug\net6.0\refint\pass.crack.dll
+D:\даня\visualstudio\pass.crack\obj\Debug\net6.0\pass.crack.pdb
+D:\даня\visualstudio\pass.crack\obj\Debug\net6.0\pass.crack.genruntimeconfig.cache
+D:\даня\visualstudio\pass.crack\obj\Debug\net6.0\ref\pass.crack.dll
